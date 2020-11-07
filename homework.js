@@ -18,22 +18,22 @@
 // Fahrenheit temperature as an argument and returns the
 // temperature in Celsius.
 
-// 6. Create a function called celsiusToFahrenheit that takes a
+// 7. Create a function called celsiusToFahrenheit that takes a
 // Celsius temperature as an argument and returns the
 // temperature in Fahrenheit.
 
-// 7. Create a function called fahrenheitToKelvin that takes a
+// 8. Create a function called fahrenheitToKelvin that takes a
 // Fahrenheit temperature as an argument and returns the
 // temperature in Kelvin. This function must use your previous
 // fahrenheitToCelsius function.
 // Absolute zero (0 K) is equivalent to −273.15 C.
 // 1 degree Kelvin equals 1 degree Celsius.
 
-// 8. Create a function called lesser that takes two numbers as
+// 9. Create a function called lesser that takes two numbers as
 // arguments and returns the lesser of them. This function should
 // use an if/else statement.
 
-// 9. Create a function called multigreeting that takes a name
+// 10. Create a function called multigreeting that takes a name
 // and a language code and returns a version of "Hello, <name>!"
 // in the specified language. The supported languages and their
 // translations are below.
@@ -45,7 +45,7 @@
 //
 // If any other language code is used, return nothing.
 
-// 10. The greatest common divisor (https://en.wikipedia.org/wiki/Greatest_common_divisor)
+// 11. The greatest common divisor (https://en.wikipedia.org/wiki/Greatest_common_divisor)
 // is the largest integer that, given two other integers, can be divided into them. For
 // example, the greatest common divisor of 24 and 81 is 3. The greatest common divisor of
 // 10 and 25 is 5.
